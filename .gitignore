@@ -1,0 +1,15 @@
+# configure files
+Makefile
+config.h
+config.status
+*.6
+.deps/
+stamp-h1
+libtool
+
+# library
+*.a
+
+# target files
+abuse
+abuse-tool
